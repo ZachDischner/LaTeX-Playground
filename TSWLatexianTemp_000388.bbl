@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{GPS}
+A.~Name.
+\newblock A thing.
+\newblock \url{somesite.orgnet}.
+
+\bibitem{STATODbook}
+B.~Tapley, B.~Schutz, and G.~Born.
+\newblock {\em Statistical Orbit Determination}.
+\newblock Elsevier Acad. Press, 2004.
+
+\end{thebibliography}
